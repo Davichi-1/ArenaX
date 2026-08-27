@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-864-backend-retry-logic-for-stellar-transactions",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-864-backend-retry-logic-for-stellar-transactions": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-864-backend-retry-logic-for-stellar-transactions",
+    "origin"
+  ]
+}
